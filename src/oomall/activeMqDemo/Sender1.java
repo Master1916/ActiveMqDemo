@@ -12,7 +12,7 @@ import javax.jms.TextMessage;
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
-public class Sender {
+public class Sender1{
     private static final int SEND_NUMBER = 100;
 
     public static void main(String[] args) {
